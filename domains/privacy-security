@@ -1,0 +1,25 @@
+# Privacy and Security
+Security checks, browser protection, threat detection, privacy-related services, credential leak checks, and security challenge infrastructure.
+
+awswaf.com
+brunhild.challenges.cloudflare.com
+cdn.cookielaw.org
+collector-pxk56wkc4o.perimeterx.net
+collector-pxn4vzfscm.perimeterx.net
+content-signature-2.cdn.mozilla.net
+controld.com
+duckduckgo.com
+firefox-portal-detection.com
+firefox-settings-attachments.cdn.mozilla.net
+firefox.settings.services.mozilla.org
+joesandbox.com
+measurementlab.net
+mobile-2511.api.privacy-center.org
+ohttp-relay-safebrowsing-android.google.fastly-edge.com
+ondevicesafety-pa.googleapis.com
+passwordsleakcheck-pa.googleapis.com
+perimeterx.net
+privacy-center.org
+safebrowsing.googleapis.com
+sdk.privacy-center.org
+verifiablecredentials-pa.googleapis.com
