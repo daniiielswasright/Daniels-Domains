@@ -1,11 +1,14 @@
 # Advertising and Bidding
 Advertising networks, ad delivery, real-time bidding, ad exchanges, attribution related to advertising, and ad measurement.
 
+4260700.fls.doubleclick.net
+ad.doubleclick.net
 ads-api.x.com
 ads-production-public.s3.amazonaws.com
 ads-production-public.s3.us-east-1.amazonaws.com
 ads.inmobi.com
 ads.mozilla.org
+ads.pinger.com
 adsmetadata.startappservice.com
 adx.ads.vungle.com
 amazon-adsystem.com
@@ -16,6 +19,7 @@ com.google.android.adservices.api
 config.ads.vungle.com
 criteo-sync.teads.tv
 doubleclick.net
+dpm.demdex.net
 events.ads.vungle.com
 googleadservices.com
 googleads.g.doubleclick.net
@@ -31,11 +35,13 @@ mdtb-cf-1.ads.aps.amazon-adsystem.com
 mdtb-cf-3.ads.aps.amazon-adsystem.com
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
+pixel-s2s.mathtag.com
 pubads.g.doubleclick.net
 px.ads.linkedin.com
 rtb-csync.smartadserver.com
 s.amazon-adsystem.com
 securepubads.g.doubleclick.net
+tags.srv.stackadapt.com
 synchroscript.deliveryengine.adswizz.com
 textnow-textnow.adsbynimbus.com
 turbo.adsbynimbus.com
