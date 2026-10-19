@@ -1,0 +1,99 @@
+# Google APIs
+Google API endpoints and API-adjacent services, organized by function. Domains may also appear in other category files.
+
+## App Distribution and Play Store
+
+play-fe.googleapis.com
+play.googleapis.com
+play-lh.googleusercontent.com
+play.google.com
+playstoregatewayadapter-pa.googleapis.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
+
+## Application Infrastructure and Firebase
+
+content-autofill.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebaseremoteconfigrealtime.googleapis.com
+firestore.googleapis.com
+identitytoolkit.googleapis.com
+infinitedata-pa.googleapis.com
+lamssettings-pa.googleapis.com
+
+## Accounts, Identity, and Device Services
+
+android.clients.google.com
+android.googleapis.com
+androidplatformbackuprestore-pa.googleapis.com
+androidpay-users-pa.googleapis.com
+clientservices.googleapis.com
+mmsbackup.pa.googleapis.com
+phonedeviceverification-pa.googleapis.com
+remoteprovisioning.googleapis.com
+securetoken.googleapis.com
+subscriptionsfirstparty-pa.googleapis.com
+
+## Location and Geolocation
+
+geomobileservices-pa.googleapis.com
+locationhistory-pa.googleapis.com
+locationhistoryplacedetails-pa.googleapis.com
+mobilemaps-pa-gz.googleapis.com
+semanticlocation-pa.googleapis.com
+streetviewpixels-pa.googleapis.com
+userlocation.googleapis.com
+
+## Messaging and Device Communication
+
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
+mtalk.google.com
+nearbysharing-pa.googleapis.com
+
+## Google Services and General API Endpoints
+
+android.apis.google.com
+appsgenaiserver-pa.googleapis.com
+calendarpushsubscription-pa.googleapis.com
+calendarsync-pa.googleapis.com
+digitalassetlinks.googleapis.com
+discover-pa.googleapis.com
+footprints-pa.googleapis.com
+gboardexpression-pa.googleapis.com
+geller-pa.googleapis.com
+jnn-pa.googleapis.com
+memex-pa.googleapis.com
+people-pa.googleapis.com
+peoplestack-pa.googleapis.com
+photosdata-pa.googleapis.com
+readaloud.googleapis.com
+robinfrontend-pa.googleapis.com
+searchnotifications-pa.googleapis.com
+signaler-pa.googleapis.com
+subscriptionssettings-pa.googleapis.com
+suggestqueries.google.com
+taskassist-pa.googleapis.com
+tasks-pa.googleapis.com
+verifiablecredentials-pa.googleapis.com
+voilatile-pa.googleapis.com
+voledevice-pa.googleapis.com
+workspacevideo-pa.googleapis.com
+xga-serving-pa.googleapis.com
+
+## Safety, Verification, and Security APIs
+
+ondevicesafety-pa.googleapis.com
+passwordsleakcheck-pa.googleapis.com
+safebrowsing.googleapis.com
+
+## Other Google API-Adjacent Domains
+
+vturlscreenshot.commondatastorage.googleapis.com
