@@ -1,0 +1,21 @@
+# Web Infrastructure
+Purpose: General web dependencies, JavaScript libraries, website platforms, CMS services, and other web-facing services that do not fit better elsewhere.
+
+assets.squarespace.com
+code.jquery.com
+config.edge.skype.com
+contentful.com
+datadoghq.com
+discourse-cdn.com
+editmysite.com
+github.com
+gitlab.com
+hosted-by-discourse.com
+jquery.com
+jsdelivr.net
+knotch-cdn.com
+pantheonsite.io
+raw.githubusercontent.com
+squarespace-cdn.com
+squarespace.com
+unpkg.com
