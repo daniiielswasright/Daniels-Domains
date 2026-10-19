@@ -1,0 +1,21 @@
+# DNS and Network Connectivity
+DNS resolvers, connectivity checks, STUN services, and other network-discovery or connection-establishment services.
+
+_sip._udp.pvn.pinger.com
+cloudflare-dns.com
+connectivitycheck.gstatic.com
+dns.google.com
+firefox-portal-detection.com
+ideasip.com
+ipv4only.arpa
+mozilla.cloudflare-dns.com
+stun.cloudflare.com
+stun.global.stun.twilio.com
+stun.ideasip.com
+stun.l.google.com
+stun.schlund.de
+stun1.l.google.com
+stun2.l.google.com
+stun3.l.google.com
+voiparound.com
+voipstunt.com
