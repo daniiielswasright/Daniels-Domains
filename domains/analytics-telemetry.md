@@ -1,0 +1,31 @@
+# Analytics and Telemetry
+Analytics, application usage measurement, event collection, crash reporting, performance monitoring, and diagnostic telemetry.
+
+```
+9m71lc.cdn-settings.appsflyersdk.com
+analytics-ipv6.tiktokw.us
+analytics.google.com
+analytics.mobile.walmart.com
+analytics.tiktok.com
+api.mshop.bdtelemetry.amazon
+app-analytics-v2.snapchat.com
+app-measurement.com
+app-analytics-v2.snapchat.com
+collect.tealiumiq.com
+collector.github.com
+crashlytics.com
+firebaselogging.googleapis.com
+firebase-settings.crashlytics.com
+google-analytics.com
+incoming.telemetry.mozilla.org
+mobile-collector.newrelic.com
+o33249.ingest.sentry.io
+sentry-prod-sg.glance.com
+stats.g.doubleclick.net
+telemetry.sdk.inmobi.com
+telemetry.us.transcend.io
+textnow.adsmeasurement.com
+track.activemetering.com
+ups.analytics.yahoo.com
+userlocation.googleapis.com
+```
