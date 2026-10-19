@@ -1,7 +1,6 @@
 # Advertising and Bidding
 Advertising networks, ad delivery, real-time bidding, ad exchanges, attribution related to advertising, and ad measurement.
 
-```
 ads-api.x.com
 ads-production-public.s3.amazonaws.com
 ads-production-public.s3.us-east-1.amazonaws.com
@@ -42,4 +41,3 @@ textnow-textnow.adsbynimbus.com
 turbo.adsbynimbus.com
 us-east.ads.audio.thisisdax.com
 z.moatads.com
-```
