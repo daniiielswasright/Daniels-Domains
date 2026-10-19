@@ -1,0 +1,25 @@
+# Identity and Authentication
+Identity verification, authentication, credentials, account security, payment authentication, and related verification infrastructure.
+
+accounts.firefox.com
+api.accounts.firefox.com
+api.support-server.prod.netcetera-cloud-payment.ch
+auth.nextdoor.com
+auth.openai.com
+cardinalcommerce.com
+cdn-public.atomicfi.com
+centinelapi.cardinalcommerce.com
+cognito-idp.us-east-1.amazonaws.com
+cmsdk.cardinalcommerce.com
+msauthimages.net
+msftauth.net
+msftauthimages.net
+mobileappcommunicator.auth.microsoft.com
+oauth.accounts.firefox.com
+plaid.com
+profile.accounts.firefox.com
+securetoken.googleapis.com
+sync-1-us-west1-g.sync.services.mozilla.com
+token.services.mozilla.com
+withpersona.com
+ye2.c.lencr.org
