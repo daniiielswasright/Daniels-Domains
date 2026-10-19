@@ -1,0 +1,69 @@
+# Social Platforms
+Social networks, community platforms, messaging platforms, and their platform-specific APIs and supporting endpoints.
+
+## Facebook / Meta / Instagram
+
+facebook.com
+graph.facebook.com
+web.facebook.com
+
+cdninstagram.com
+graph.instagram.com
+graph-fallback.instagram.com
+instagram.com
+i.instagram.com
+scontent-lga3-3.cdninstagram.com
+scontent-fallback.cdninstagram.com
+test-gateway.instagram.com
+
+## Reddit
+
+alb.reddit.com
+blankswords-66a21v-0-0-9-webview.devvit.net
+external-preview.redd.it
+i.redd.it
+pi.reddit.com
+preview.redd.it
+reddit.com
+redditmedia.com
+redditspace.com
+redditstatic.com
+v.redd.it
+webview.devvit.net
+
+## Snapchat
+
+aws.api.snapchat.com
+gcp.api.snapchat.com
+snapchat.com
+us-east1-aws.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+usc1-gcp-v61.api.snapchat.com
+usc1-gcp-v62.api.snapchat.com
+
+## TextNow
+
+api.pinger.com
+api.prod.textnow.me
+bigo.sg
+event.textnow.me
+media.textnow.com
+pinger.com
+pinger.zendesk.com
+textnow.me
+textnow-static.s3.amazonaws.com
+
+## TikTok
+
+tiktok.com
+
+## X / Twitter
+
+abs.twimg.com
+api.x.com
+facebook.com
+pbs.twimg.com
+twitter.com
+twimg.com
+video.twimg.com
+x.com
