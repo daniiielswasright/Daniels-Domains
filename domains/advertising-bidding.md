@@ -1,5 +1,5 @@
 # Advertising and Bidding
-> > Ad networks, ad delivery, bidding, exchanges, attribution, and ad-serving infrastructure.
+> Ad networks, ad delivery, bidding, exchanges, attribution, and ad-serving infrastructure.
 
 | Domain | Purpose |
 |--------|---------|
