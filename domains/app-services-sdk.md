@@ -1,5 +1,5 @@
 # App Services and SDKs
-> Application SDKs and supporting services, including SDK delivery, remote configuration, feature flags, subscriptions, identity verification, in-app messaging, push notifications, media embeds, and application integrations.
+> Application SDKs, configuration, subscriptions, identity, messaging, and integrations.
 
 | Domain | Purpose |
 | --- | --- |
@@ -9,16 +9,10 @@
 | public-media.**adapty.io** | public media delivery |
 | **adaptytech.com** | subscription management services |
 |  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **air.tv** | embedded media service |
-| embed.**air.tv** | embedded media content |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
 | csdkapi-policy.**adobe.com** | SDK policy service |
 | server.messaging.**adobe.com** | messaging service |
 |  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
 | messaging.service.**anonyome.com** | messaging service endpoint |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| hermes.media.static.**aol.com** | static media delivery |
-| hermes.media.transform.**aol.com** | media transformation and delivery |
 |  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
 | **braze.com** | customer engagement and messaging |
 | sdk.iad-01.**braze.com** | Braze SDK service |
@@ -62,8 +56,6 @@
 |  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
 | **moengage.com** | customer engagement services |
 | sdk-01.**moengage.com** | engagement SDK |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| embed.**reddit.com** | embedded posts and comments |
 |  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
 | **revenuecat.com** | subscription management |
 | api.**revenuecat.com** | subscriptmion API |
