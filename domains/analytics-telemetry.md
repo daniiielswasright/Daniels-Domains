@@ -1,6 +1,7 @@
 # Analytics and Telemetry
 > Domains dedicated to analytics, measurement, crash reporting, performance monitoring, and telemetry.
 
+```
 adyen.com
 checkoutanalytics-live.adyen.com
 ecommerce-events-lb.adscale.com
