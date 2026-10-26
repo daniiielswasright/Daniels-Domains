@@ -1,103 +1,87 @@
 # Analytics and Telemetry
 > Domains dedicated to analytics, measurement, crash reporting, performance monitoring, and telemetry.
 
-| Domain | Purpose |
-| --- | --- |
-| **adyen.com** | checkout analytics |
-| checkoutanalytics-live.**adyen.com** | checkout event analytics |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| hz-telemetry.**adobe.io** | telemetry collection |
-| hz-telemetry-next.**adobe.io** | telemetry collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| api.mshop.bdtelemetry.**amazon** | telemetry ingestion |
-| prod.tahoe-analytics.publishers.advertising.**a2z.com** | publisher analytics pipeline |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **amplitude.com** | product analytics |
-| analytics.**amplitude.com** | analytics ingestion |
-| api.**amplitude.com** | event API |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **app-measurement.com** | Google measurement SDK |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| analytics-static.ugc.**bazaarvoice.com** | user-generated content analytics |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **bydata.com** | telemetry |
-| telemetry.**bydata.com** | telemetry ingestion |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| mssdk.**bytedance.com** | SDK telemetry ingestion |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **cdndex.io** | analytics |
-| reporting.**cdndex.io** | analytics reporting |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| datadog-forwarder.**chime.com** | telemetry forwarding |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **cloudflareinsights.com** | performance analytics |
-| static.**cloudflareinsights.com** | analytics script |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **crashlytics.com** | crash reporting |
-| firebase-settings.**crashlytics.com** | crash-reporting configuration |
-| crashlyticsreports-pa.**googleapis.com** | crash report ingestion |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **datadoghq.com** | telemetry |
-| browser-intake-**datadoghq.com** | browser telemetry |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| analytics.**google.com** | Google Analytics services |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **google-analytics.com** | analytics measurement |
-| ssl.**google-analytics.com** | Google Analytics measurement |
-| www.**google-analytics.com** | Google Analytics measurement |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **googletagmanager.com** | analytics tag management |
-| www.**googletagmanager.com** | tag delivery and management |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **glanceapis.com** | Glance analytics 
-| mlib-us-spaces.analytics.**glanceapis.com** | Glance analytics collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **inmobi.com** | SDK telemetry |
-| telemetry.sdk.**inmobi.com** | SDK telemetry collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| incoming.**mozilla.org** | telemetry ingestion |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| proxy.telemetry.us-ashburn-1.**oraclecloud.com** | Oracle Cloud telemetry proxy |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| w3-reporting.**reddit.com** | browser reporting and diagnostics |
-| w3-reporting-nel.**reddit.com** | Network Error Logging reports |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| analytics.**sendsafely.com** | analytics collection |
-| analytics-frame.**sendsafely.com** | analytics frame |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **shopifysvc.com** | analytics and session reporting |
-| error-analytics-sessions-production.**shopifysvc.com** | session error analytics |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| app-analytics-v2.**snapchat.com** | app analytics collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| analytics.**tiktok.com** | TikTok analytics collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **tiktokcdn-us.com** | telemetry |
-| sf16-telemetry-proxy-oci.**tiktokcdn-us.com** | TikTok telemetry proxy |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **transcend.io** | telemetry |
-| telemetry.us.**transcend.io** | privacy and data-flow telemetry |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| ttip-ipv4-prod.telemetry.**vaultdcr.com** | telemetry endpoint |
-| ttip-ipv6-prod.telemetry.**vaultdcr.com** | telemetry endpoint |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| sanalytics.**verizon.com** | Verizon analytics collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| sanalytics.**verizonwireless.com** | Verizon Wireless analytics collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| analytics.mobile.**walmart.com** | mobile app analytics |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| ups.analytics.**yahoo.com** | analytics collection |
-| sp.analytics.**yahoo.com** | analytics collection |
-| opus.analytics.**yahoo.com** | analytics endpoint |
-| cms.analytics.**yahoo.com** | analytics endpoint |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **yandex.net** | analytics |
-| report.appmetrica.**yandex.net** | AppMetrica analytics reporting |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| **zoom.us** | telemetry |
-| us.telemetry.**zoom.us** | Zoom telemetry collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
-| 
-| telemetry.**proton.me** | Proton telemetry collection |
-|  • &nbsp; • &nbsp; • &nbsp; | • &nbsp; • &nbsp; • &nbsp; |
+adyen.com
+checkoutanalytics-live.adyen.com
+ecommerce-events-lb.adscale.com
+hz-telemetry.adobe.io
+hz-telemetry-next.adobe.io
+prod.tahoe-analytics.publishers.advertising.a2z.com
+api.mshop.bdtelemetry.amazon
+amplitude.com
+analytics.amplitude.com
+api.amplitude.com
+ingest.atomicfi.com
+analytics-static.ugc.bazaarvoice.com
+bydata.com
+telemetry.bydata.com
+mssdk.bytedance.com
+cdndex.io
+reporting.cdndex.io
+datadog-forwarder.chime.com
+event-router.chime.com
+cloudflareinsights.com
+static.cloudflareinsights.com
+crashlytics.com
+firebase-settings.crashlytics.com
+datadoghq.com
+browser-intake-datadoghq.com
+events.framer.com
+analytics.google.com
+google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
+googletagmanager.com
+www.googletagmanager.com
+clouderrorreporting.googleapis.com
+crashlyticsreports-pa.googleapis.com
+glanceapis.com
+mlib-us-spaces.analytics.glanceapis.com
+inmobi.com
+telemetry.sdk.inmobi.com
+incoming.mozilla.org
+eu-office.events.data.microsoft.com
+analytics-ios.rayjump.com
+error-tracking.reddit.com
+w3-reporting.reddit.com
+w3-reporting-nel.reddit.com
+analytics.sendsafely.com
+analytics-frame.sendsafely.com
+o1069899.ingest.sentry.io
+o109687.ingest.us.sentry.io
+o1158394.ingest.us.sentry.io
+o17585.ingest.us.sentry.io
+o243585.ingest.sentry.io
+o30969.ingest.us.sentry.io
+o438986.ingest.sentry.io
+o4506509651869696.ingest.sentry.io
+o4507234886615040.ingest.us.sentry.io
+o4509058527330304.ingest.us.sentry.io
+o4510419102728192.ingest.de.sentry.io
+rum-ingest.us1.signalfx.com
+app-analytics-v2.snapchat.com
+error-analytics-sessions-production.shopifysvc.com
+shopifysvc.com
+events.split.io
+event-ingestion-service.tiger.tracfone.sliide.cloud
+analytics.tiktok.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
+telemetry.us.transcend.io
+transcend.io
+eventgw.twilio.com
+usage.trackjs.com
+ttip-ipv4-prod.telemetry.vaultdcr.com
+ttip-ipv6-prod.telemetry.vaultdcr.com
+sanalytics.verizon.com
+sanalytics.verizonwireless.com
+analytics.mobile.walmart.com
+opus.analytics.yahoo.com
+sp.analytics.yahoo.com
+cms.analytics.yahoo.com
+ups.analytics.yahoo.com
+yandex.net
+report.appmetrica.yandex.net
+telemetry.proton.me
+proxy.telemetry.us-ashburn-1.oraclecloud.com
+zoom.us
+us.telemetry.zoom.us
