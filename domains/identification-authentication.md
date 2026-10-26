@@ -1,6 +1,7 @@
 # Identity and Authentication
-Identity verification, authentication, credentials, account security, payment authentication, and related verification infrastructure.
+> Identity verification, authentication, credentials, account security, payment authentication, and related verification infrastructure.
 
+```
 account.arin.net
 account.live.com
 account.microsoft.com
